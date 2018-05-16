@@ -1,4 +1,4 @@
 # MULTIFLIX CMM341 : Human Computer Interface
 ___
->        npm install
->        npm start
+        npm install
+        npm start
